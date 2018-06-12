@@ -1,3 +1,11 @@
 
 *.prefs
 /ExemploClasse/
+/Macaco.class
+/Personagem.class
+/Pessoa.class
+/Principal.class
+/PrincipalNaruto.class
+/PersonagemJUnitTest.class
+/Filme.class
+/FilmeJUnitTest.class
